@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "100576583042",
+    "project_id": "viladaviu-app",
+    "storage_bucket": "viladaviu-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100576583042:android:da01017cbe2abdfcce839b",
+        "android_client_info": {
+          "package_name": "com.example.finques_viladaviu_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100576583042-ln4stv60n185mf5au7vb8qoknb2k1js5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj6NGzLZd_X6ObvAFeTPUx7tIm5z7WdeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100576583042-ln4stv60n185mf5au7vb8qoknb2k1js5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100576583042:android:9c49bffc871a5ea1ce839b",
+        "android_client_info": {
+          "package_name": "com.example.test_firebase_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100576583042-ln4stv60n185mf5au7vb8qoknb2k1js5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj6NGzLZd_X6ObvAFeTPUx7tIm5z7WdeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100576583042-ln4stv60n185mf5au7vb8qoknb2k1js5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
